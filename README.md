@@ -40,8 +40,8 @@ Após **31 anos de dedicação e disciplina no Corpo de Bombeiros Militar do Cea
 ---
 
 ### 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io)](https://www.linkedin.com)
-[![WhatsApp](https://img.shields.io)](https://wa.me)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366)](https://wa.me/5585991040221)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--%230077B5)](https://www.linkedin.com/in/francisco-elias-52330b3b5/)
 
 ---
 *"A disciplina é a ponte entre metas e realizações."*
