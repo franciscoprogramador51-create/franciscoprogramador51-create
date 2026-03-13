@@ -10,9 +10,15 @@ Após **31 anos de dedicação e disciplina no Corpo de Bombeiros Militar do Cea
 
 #### 🏙️ Experiências Imersivas & Front-End
 *   **[Fortaleza Insider](https://fortaleza-insider.netlify.app)**: Landing page premium de turismo com background em vídeo e design responsivo.
-*   **[Neural Archaeology Engine](https://neural-archaeology-engine.netlify.app/)**: Interface exploratória com foco em performance e design futurista.
-*   **[Dashing Studio Pro](https://dashing-stroopwafel-201cd9.netlify.app/)**: Dashboard interativo com foco em visualização de dados e UX limpa.
-*   **[Tourmaline Creative](https://tourmaline-genie-c90714.netlify.app/)**: Projeto focado em componentes reutilizáveis e estilização moderna.
+*   **[Neural Archaeology Engine](https://scientiavisualis.netlify.app/)**: Interface exploratória com foco em performance e design futurista. (Antigo Scientia Visualis)
+
+#### ⚙️ Back-End & Inteligência Artificial
+*   **[FinanceFlow](https://financeflow-francisco.netlify.app/)**: Sistema de gestão financeira para controle de fluxos e organização de dados.
+*   **[AI Studio Code](https://aistudiocode.netlify.app/)**: Ferramentas de produtividade para desenvolvedores via Inteligência Artificial.
+
+#### ⛪ Projetos Institucionais
+*   **[Ministério Efrain](https://projeto-ministerio-efrain.netlify.app/)**: Plataforma dedicada à gestão e comunicação institucional.
+
 
 #### ⚙️ Back-End & Inteligência Artificial
 *   **[API de Gestão de Tarefas](https://github.com)**: Estrutura robusta para controle de fluxos e organização de dados (Node.js/Express).
