@@ -12,18 +12,27 @@ Após **31 anos de dedicação e disciplina no Corpo de Bombeiros Militar do Cea
 *   **[Fortaleza Insider](https://fortaleza-insider.netlify.app)**: Landing page premium de turismo com background em vídeo e design responsivo.
 *   **[Neural Archaeology Engine](https://scientiavisualis.netlify.app/)**: Interface exploratória com foco em performance e design futurista. (Antigo Scientia Visualis)
 
+
 #### ⚙️ Back-End & Inteligência Artificial
 *   **[FinanceFlow](https://financeflow-francisco.netlify.app/)**: Sistema de gestão financeira para controle de fluxos e organização de dados.
-*   **[AI Studio Code](https://aistudiocode.netlify.app/)**: Ferramentas de produtividade para desenvolvedores via Inteligência Artificial.
-
 #### ⛪ Projetos Institucionais
 *   **[Ministério Efrain](https://projeto-ministerio-efrain.netlify.app/)**: Plataforma dedicada à gestão e comunicação institucional.
 
 
 #### ⚙️ Back-End & Inteligência Artificial
-*   **[API de Gestão de Tarefas](https://github.com)**: Estrutura robusta para controle de fluxos e organização de dados (Node.js/Express).
+*   **[FinanceFlow](https://financeflow-francisco.netlify.app/)**: Sistema de gestão financeira para controle de fluxos e dados.
+*   **[AI Studio Code](https://aistudiocode.netlify.app/)**: Ferramentas de produtividade para desenvolvedores via IA.
 *   **[Nexus AI SaaS](https://github.com)**: Plataforma escalável para integração de serviços de IA.
-*   **[IA Studio Code](https://github.com)**: Ferramentas de produtividade para desenvolvedores via IA.
+*   
+Use o código com cuidado.
+
+Por que ficou melhor assim?
+Clareza Total: O recrutador sabe exatamente onde ele vai ver o site funcionando (Netlify) e onde ele vai analisar o seu código (GitHub).
+Sem Erro 404: Como o Nexus AI não está no Netlify, mandamos ele direto para o código, evitando aquela tela de "Site não encontrado".
+Profissionalismo: Mostrar que você tem projetos em diferentes estágios (um em produção e outros como repositórios robustos) é muito comum na carreira de TI.
+Dica de Ouro: No seu LinkedIn, na seção de "Principais competências", certifique-se de adicionar Node.js e Inteligência Artificial, já que esses projetos provam que você domina essas áreas.
+O seu README no GitHub está com esse bloco atualizado agora? Se sim, podemos considerar seu "QG Digital" (GitHub + Portfólio) pronto para a batalha!
+
 
 ---
 
